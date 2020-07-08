@@ -3,4 +3,5 @@ def using_while (phrase = "Wingardium Leviosa")
 	while levitation_force > 10
     puts phrase
     using_while += 1
+  end
 end
